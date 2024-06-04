@@ -1,0 +1,2 @@
+# API_Web_com_ASP.NET
+ Digamos que você trabalhe para uma empresa chamada Contoso Pizza. Seu gerente pediu que você desenvolvesse um serviço RESTful de gerenciamento de estoque de pizza como pré-requisito para a vitrine Web e o aplicativo móvel da empresa. O serviço precisa dar suporte à adição, exibição, modificação e remoção de tipos de pizza – Um uso padronizado de verbos HTTP mais conhecido como CRUD (criar, ler, atualizar, excluir).
